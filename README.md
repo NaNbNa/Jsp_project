@@ -23,13 +23,7 @@ Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/三峡",
 增:点击 “增加测站” 按钮,填写信息即可添加.  
 删:直接点击删除键(无第二次确认)即可删除.  
 查:一共有6种查询框,填写其一即可(填写多个查询框,查询条件是彼此独立的,所查询的结果会结合在一起展示).  
-改:点击 “修改” 按钮,填写所需修改的信息的信息即可查询.  
-### 二.数据库文件层次  
-![WPS图片(1)](https://github.com/NaNbNa/Jsp_project/assets/144761706/d43cd3a7-d304-45d9-ba65-9003f6f7ba44)  
-### 三.数据库效果展示  
-![WPS图片(1)](https://github.com/NaNbNa/Jsp_project/assets/144761706/64126f78-7b4f-409b-bd00-923863e77e3c)  
-![WPS图片(1)](https://github.com/NaNbNa/Jsp_project/assets/144761706/58c626cb-bb0f-4e80-a1b6-954fc7a14d11)  
-![WPS图片(1)](https://github.com/NaNbNa/Jsp_project/assets/144761706/9b87eb86-d09e-4e10-81af-20e822848224)  
+改:点击 “修改” 按钮,填写所需修改的信息的信息即可查询.    
 
 
 
